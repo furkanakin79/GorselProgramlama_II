@@ -10,4 +10,4 @@
 <p>05_sqlClient.pdf
 <p>ve northwind vt örneği için gerekli dosyalar eklendi.
   
-Kaynak Kod eklendi (Database.rar)
+Kaynak Kod eklendi (GPII.rar)
