@@ -11,3 +11,5 @@
 <p>ve northwind vt örneği için gerekli dosyalar eklendi.
   
 Kaynak Kod eklendi (GPII.rar)
+  
+Kaynak Kod eklendi (Database.part1.rar ve Database.part2.rar)
