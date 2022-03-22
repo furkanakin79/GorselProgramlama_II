@@ -17,4 +17,5 @@ Kaynak Kod eklendi (GPII.rar)
   
 Kaynak Kod eklendi (Database.part1.rar ve Database.part2.rar)
   
-<p>Api ve Registry konuları için gereki dökümanlar ve uygulamalar için "Api ve Registry.rar" dosyası eklendi
+<p>Api ve Registry konuları için gereki dökümanlar ve uygulamalar için "Api ve Registry.rar" dosyası eklendi<\p>
+<p>13_report viewer.pdf dosyası güncellendi<\p>
