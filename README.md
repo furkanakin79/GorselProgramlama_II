@@ -19,3 +19,7 @@ Kaynak Kod eklendi (Database.part1.rar ve Database.part2.rar)
   
 <p>Api ve Registry konuları için gereki dökümanlar ve uygulamalar için "Api ve Registry.rar" dosyası eklendi
 <p>13_report viewer.pdf dosyası güncellendi
+  
+<p>30.03.2022
+<p>Kaynak Kod eklendi "Hesaplama.rar"
+<p>15_Bileşen Oluşturma ve Kullanma.pdf, 16_SetupOluşturma.pdf ve 16_setupprojesi.png dosyaları eklendi
