@@ -23,3 +23,5 @@ Kaynak Kod eklendi (Database.part1.rar ve Database.part2.rar)
 <p>30.03.2022
 <p>Kaynak Kod eklendi "Hesaplama.rar"
 <p>15_Bileşen Oluşturma ve Kullanma.pdf, 16_SetupOluşturma.pdf ve 16_setupprojesi.png dosyaları eklendi
+<p>04.04.2022
+<p>16_SetupOluşturma.pdf, 16_setupprojesi.png, 16_yukleyiciClassSQLEkle.cs ve SQLEkle.rar dosyaları eklenmiştir.
